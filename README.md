@@ -1,0 +1,2 @@
+# Ohjelmistokehityksen_teknologioita
+Ohjelmistokehityksen_teknologioita repository kurssin tehtäviä varten
